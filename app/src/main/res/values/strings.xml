@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Loja Mano Tensão</string>
+    <string name="txtCliente">Cliente:</string>
+    <string name="txtDescricao">Descrição:</string>
+    <string name="txtValor">Valor:</string>
+    <string name="txtOrcamento">Orçamento</string>
+    <string name="txtServico">Serviço</string>
+    <string name="txtTipo">Tipo:</string>
+    <string name="txtCategoria">Categoria:</string>
+    <string name="txtConcluido">Serviço Concluido</string>
+
+    <string name="hintCliente">Nome do cliente</string>
+    <string name="hintDescricao">Descrição do Problema</string>
+    <string name="hintValor">R$ 0,00</string>
+
+    <string name="btnSalvar">Salvar</string>
+
+
+    <string-array name="arrayCategoria">
+<item>Selecione...</item>
+<item>Tela</item>
+<item>Fonte</item>
+<item>Processador</item>
+<item>Limpeza</item>
+<item>Troca de Bateria</item>
+    </string-array>
+
+
+</resources>

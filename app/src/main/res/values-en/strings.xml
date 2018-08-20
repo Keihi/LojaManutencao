@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tencion Bro Shop</string>
+    <string name="txtCliente">Client:</string>
+    <string name="txtDescricao">Description:</string>
+    <string name="txtValor">Price:</string>
+    <string name="txtOrcamento">Estimate:</string>
+    <string name="txtServico">Service:</string>
+    <string name="txtTipo">Type:</string>
+    <string name="txtCategoria">Categories:</string>
+    <string name="txtConcluido">Service Complete</string>
+
+    <string name="hintCliente">Client Name</string>
+    <string name="hintDescricao">Problem Description</string>
+    <string name="hintValor">R$ 0,00</string>
+
+    <string name="btnSalvar">Save</string>
+
+
+    <string-array name="arrayCategoria">
+<item>Select...</item>
+<item>Screen</item>
+<item>Font</item>
+<item>Procesor</item>
+<item>Cleaning</item>
+<item>Batery Change</item>
+    </string-array>
+
+
+</resources>
